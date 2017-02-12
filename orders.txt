@@ -1,0 +1,18 @@
+add Tom Shampoo
+add Tom Detergent
+add Sally Laptop
+add Harry Headphones
+add Sally Jeans
+add Sally Shoes
+delete Ben Video
+cart Tom
+add Valerie Dress
+add Ben Video
+cart Harry
+add Tom Vespa
+add Tom Sofa
+cart Sally
+checkout Sally
+cart Tom
+add Tom Shampoo
+checkout Tom
